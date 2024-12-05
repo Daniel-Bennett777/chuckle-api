@@ -9,6 +9,11 @@
       "text": "Yoda was originally going to be played by a monkey in a mask.",
       "shared": false,
       "id": 2
+    },
+    {
+      "text": "Leonard Nimoy came up with the Vulcan nerve pinch himself.",
+      "shared": true,
+      "id": 7
     }
 ]
 }
