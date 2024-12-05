@@ -49,6 +49,12 @@
       "text": "Carrie Fisher’s buns hairstyle was inspired by Pancho Villa’s female fighters.",
       "shared": true,
       "id": 13
+    },
+    {
+      "text": "Han Solo’s iconic blaster noise was made by hitting a tension cable with a hammer.",
+      "shared": false,
+      "id": 14
     }
+
 ]
 }
