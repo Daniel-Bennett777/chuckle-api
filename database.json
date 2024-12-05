@@ -24,6 +24,11 @@
       "text": "Star Trek: The Motion Picture reused many props from the original series to save costs.",
       "shared": false,
       "id": 9
+    },
+    {
+      "text": "The phrase 'Beam me up, Scotty' was never actually said in the original series.",
+      "shared": true,
+      "id": 10
     }
 ]
 }
