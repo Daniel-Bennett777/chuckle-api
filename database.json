@@ -29,6 +29,11 @@
       "text": "The phrase 'Beam me up, Scotty' was never actually said in the original series.",
       "shared": true,
       "id": 10
+    },
+    {
+      "text": "George Lucas partially funded Star Wars by using his salary from directing 'American Graffiti.'",
+      "shared": false,
+      "id": 11
     }
 ]
 }
